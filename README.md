@@ -13,6 +13,7 @@
   Technical Trainer | Coder | Tech Enthusiast
 </p>
 
+<!-- 
 <div align="center">
 <table>
   <tr>
@@ -140,7 +141,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <!-- [![Repography](https://reporoster.com/stars/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA)-->
 
-<details>
+<!-- <details>
   <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for RAFIKSHA&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
   <h2>Star History Chart</h2>
@@ -201,7 +202,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </a>
   </h3>-->
 
-</div>
+<!-- </div>
 
 <table>
   <tr>
@@ -221,11 +222,11 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         <img src="https://lanyard.cnrad.dev/api/424279823817375746" alt="Discord Presence">
       </a>
     </td>
-  </tr>
+<!--   </tr>
 </table>
 --> 
 
-
+<!-- 
 <h3 align="center">YouTube Stats</h3>
 
 [![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCHFZAGz2H5WPK9cmwAxG2Og&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/channel/UCHFZAGz2H5WPK9cmwAxG2Og)
@@ -453,7 +454,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
       </td>
-    </tr>
+<!--     </tr>
   </tbody>
  </table>
 </div>
@@ -511,7 +512,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       <td align="center" style="border: none;">
         <img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/><br>Cohere
       </td>
-    </tr>
+<!--     </tr>
   </tbody>
 </table>
 </div>
@@ -623,7 +624,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 -->
 
 
-<h2 align="center">📫 Let's Connect!</h2>
+<!-- <h2 align="center">📫 Let's Connect!</h2>
 
 <table align="center">
   <tr>
